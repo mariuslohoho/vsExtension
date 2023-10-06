@@ -1,0 +1,5 @@
+PKief.material-icon-theme
+ms-python.python
+akamud.vscode-theme-onedark
+ms-python.isort
+ms-python.vscode-pylance
